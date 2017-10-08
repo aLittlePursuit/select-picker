@@ -9,7 +9,7 @@
 </template>
 
 <script>
-  import selectPicker from '@/components/common/selectPicker'
+  import selectPicker from '@/components/selectPicker'
 
   export default {
     data () {
